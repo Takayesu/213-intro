@@ -3,25 +3,25 @@ Fill in the text below with your own answers to each question. Each person in yo
 
 ## About You
 What are your names, as they appear on the class roster?
-> ...
+> Nikolas Y Takayesu
 
 What are your GitHub usernames?
-> ...
+> Takayesu
 
 What do you prefer to be called?
-> ...
+> Niko
 
 Why are you taking this course?
-> ...
+> OS sounds pretty cool.
 
 What are your concerns about this course?
-> ...
+> The 8 AM on Tuesday concerns me.
 
 What topic in this course are you most excited to cover?
-> ...
+> The parallel patterns bit sounds interesting.
 
 Do you have any questions for me?
-> ...
+> No.
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2017S/CSC213/syllabus/) for course policies.
